@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 #from joblib import load
 app = Flask(__name__)
-model = pickle.load(open('decision_model.pkl', 'rb'))
+model = pickle.load(open('RandomForestRegressor.pkl', 'rb'))
 
 @app.route('/')
 def home():
@@ -21,15 +21,15 @@ def y_predict():
     print(prediction)
     output=prediction[0]
     if(output<=9):
-        pred="Worst performance with mileage " + str(prediction[0]) +". Carry extra fuel"
+        pred="Worst performance with mileage " + str(prediction[0]) +"mpg. Carry extra fuel"
     if(output>9 and output<=17.5):
-        pred="Low performance with mileage " +str(prediction[0]) +". Don't go to long distance"
+        pred="Low performance with mileage " +str(prediction[0]) +"mpg. Don't go for long distance"
     if(output>17.5 and output<=29):
-        pred="Medium performance with mileage " +str(prediction[0]) +". Go for a ride nearby."
+        pred="Medium performance with mileage " +str(prediction[0]) +"mpg. Go for a ride nearby."
     if(output>29 and output<=46):
-        pred="High performance with mileage " +str(prediction[0]) +". Go for a healthy ride"
+        pred="High performance with mileage " +str(prediction[0]) +"mpg. Go for a healthy ride"
     if(output>46):
-        pred="Very high performance with mileage " +str(prediction[0])+". You can plan for a Tour"
+        pred="That's a very high performance with mileage " +str(prediction[0])+"mpg. You can plan for a Tour"
         
     
     return render_template('index.html', prediction_text='{}'.format(pred))
