@@ -32,7 +32,7 @@ The performance analysis of the car is based on the engine type, no of engine cy
 * [Assignments](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Assignments)
 * Project Design & Planning
     - Ideation Phase
-        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature_survey_Machine_Learning_based_Vehicle_Performance_Analyzer.pdf)
+        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/2.%20Project%20Design%20%26%20Planning/Ideation%20Phase/Literature_survey_Machine_Learning_based_Vehicle_Performance_Analyzer.pdf)
         - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy_map.pdf)
         - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation.pdf)
     - Project Design Phase 1
@@ -47,3 +47,4 @@ The performance analysis of the car is based on the engine type, no of engine cy
     - Project Planning Phase
         - [x] [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf)
         - [x] [Project_Planning](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project_Planning.pdf)
+* Project Developement Phase
