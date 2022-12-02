@@ -46,5 +46,16 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology_Stack_PNT2022TMID02351.pdf)
     - Project Planning Phase
         - [x] [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf)
-        - [x] [Project_Planning](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project_Planning.pdf)
+        - [x] [Project Planning](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project_Planning.pdf)
 * Project Developement Phase
+    - [x] [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Project%20Development%20Phase/Sprint%201)
+    - [x] [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Project%20Development%20Phase/Sprint%202)
+    - [x] [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Project%20Development%20Phase/Sprint%203)
+    - [x] [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Project%20Development%20Phase/Sprint%204)
+    - [x] [Performance Testing](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Development%20Phase/Performance%20Testing/Performance%20Testing.pdf)
+    - [x] [User Acceptance Testing](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Project%20Development%20Phase/User%20Acceptance%20Testing)
+* Final Deliverables
+    - [x] [Final Code](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Final%20Deliverables/Final%20code)
+    - [x] [Project Report](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Final%20Deliverables/Report/IBM_REPORT.pdf)
+    - [x] [Demonstration Video](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Final%20Deliverables/Demonstration%20Video)
+    - [x] [Dataset](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Final%20Deliverables/Dataset)
